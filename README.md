@@ -14,22 +14,22 @@ USAGE
 
 SAMPLE RUN
 
-x@y:~$ ./urlstat.py http://google.com 3 
-      
-AVERAGE STATS for 3 loops:
---------------
+	bal@balap:~$ ./urlstat.py http://google.com 3 
+		  
+	AVERAGE STATS for 3 loops:
+	--------------
 
-Load time: 438 ms
+	Load time: 438 ms
 
-CPU
-   User:   3.33333333333 ticks
-   System: 2.66666666667 ticks
+	CPU
+	   User:   3.33333333333 ticks
+	   System: 2.66666666667 ticks
 
-Memory
- Total:    3004.0 pages
+	Memory
+	 Total:    3004.0 pages
 
-Net:
-   wlan0 received bytes  : 12935
-   wlan0 received packets: 19
-   eth0 received bytes  : 0
-   eth0 received packets: 0
+	Net:
+	   wlan0 received bytes  : 12935
+	   wlan0 received packets: 19
+	   eth0 received bytes  : 0
+	   eth0 received packets: 0
