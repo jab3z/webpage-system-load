@@ -1,7 +1,7 @@
 webpage-system-load
 ===================
 
-Display averafge system statistics (load time, cpu, memory, net) for a process that loads a webpage
+Display average system statistics (load time, cpu, memory, net) for a process that loads a webpage
 for a specified number of times
 
 
